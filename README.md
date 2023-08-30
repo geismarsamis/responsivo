@@ -1,2 +1,2 @@
-# responsivo
+# RESPONSIVO
 Responsivo + JS
